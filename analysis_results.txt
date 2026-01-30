@@ -1,0 +1,560 @@
+
+=== Год: 2004 ===
+Три самых популярных тега: Singleplayer, Classic, Atmospheric
+Самый непопулярный тег: — (все остальные теги уникальны и равнозначны)
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Call of Duty: United Offensive
+    - Neighbours from Hell Compilation
+  Тег 'Classic':
+    - Call of Duty: United Offensive
+    - Neighbours from Hell Compilation
+  Тег 'Atmospheric':
+    - Call of Duty: United Offensive
+    - Neighbours from Hell Compilation
+
+=== Год: 2006 ===
+Три самых популярных тега: Multiplayer, Action, Singleplayer
+Самый непопулярный тег: Racing
+
+Игры по тегам:
+  Тег 'Multiplayer':
+    - FlatOut 2
+    - Urban Rivals
+    - Microsoft Flight Simulator X: Steam Edition
+  Тег 'Action':
+    - FlatOut 2
+    - Urban Rivals
+    - Microsoft Flight Simulator X: Steam Edition
+  Тег 'Singleplayer':
+    - FlatOut 2
+    - Microsoft Flight Simulator X: Steam Edition
+  Тег 'Racing' (наименее популярный):
+    - FlatOut 2
+
+=== Год: 2007 ===
+Три самых популярных тега: Singleplayer, Puzzle, Physics
+Самый непопулярный тег: Puzzle Platformer
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Portal
+    - Heroes of Might & Magic V: Tribes of the East
+    - Peggle Deluxe
+  Тег 'Puzzle':
+    - Portal
+    - Peggle Deluxe
+  Тег 'Physics':
+    - Portal
+    - Peggle Deluxe
+  Тег 'Puzzle Platformer' (наименее популярный):
+    - Portal
+
+=== Год: 2008 ===
+Три самых популярных тега: FPS, Action, Horror
+Самый непопулярный тег: Zombies
+
+Игры по тегам:
+  Тег 'FPS':
+    - Left 4 Dead
+    - Fallout 3
+  Тег 'Action':
+    - Left 4 Dead
+    - Fallout 3
+  Тег 'Horror':
+    - Left 4 Dead
+    - Fallout 3
+  Тег 'Zombies' (наименее популярный):
+    - Left 4 Dead
+
+=== Год: 2009 ===
+Три самых популярных тега: Singleplayer, Adventure, Action
+Самый непопулярный тег: FPS
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Left 4 Dead 2
+    - Plants vs. Zombies GOTY Edition
+    - LEGO® Star Wars™ - The Complete Saga
+    - Resident Evil 5
+    - The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe (2009)
+  Тег 'Adventure':
+    - Left 4 Dead 2
+    - Plants vs. Zombies GOTY Edition
+    - LEGO® Star Wars™ - The Complete Saga
+    - Resident Evil 5
+    - The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe (2009)
+  Тег 'Action':
+    - Left 4 Dead 2
+    - LEGO® Star Wars™ - The Complete Saga
+    - Resident Evil 5
+    - The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe (2009)
+  Тег 'FPS' (наименее популярный):
+    - Left 4 Dead 2
+
+=== Год: 2010 ===
+Три самых популярных тега: Multiplayer, Singleplayer, Great Soundtrack
+Самый непопулярный тег: FPS
+
+Игры по тегам:
+  Тег 'Multiplayer':
+    - Call of Duty®: Black Ops
+    - Total War: NAPOLEON – Definitive Edition
+    - Command & Conquer™ 4 Tiberian Twilight
+    - Assassin's Creed 2
+    - Victoria II
+  Тег 'Singleplayer':
+    - Call of Duty®: Black Ops
+    - Total War: NAPOLEON – Definitive Edition
+    - Command & Conquer™ 4 Tiberian Twilight
+    - Assassin's Creed 2
+    - Victoria II
+  Тег 'Great Soundtrack':
+    - Call of Duty®: Black Ops
+    - Total War: NAPOLEON – Definitive Edition
+    - Command & Conquer™ 4 Tiberian Twilight
+    - Assassin's Creed 2
+    - Victoria II
+  Тег 'FPS' (наименее популярный):
+    - Call of Duty®: Black Ops
+
+=== Год: 2011 ===
+Три самых популярных тега: Action, Multiplayer, Singleplayer
+Самый непопулярный тег: FPS
+
+Игры по тегам:
+  Тег 'Action':
+    - Call of Duty®: Modern Warfare® 3 (2011)
+    - Assassin’s Creed® Brotherhood
+  Тег 'Multiplayer':
+    - Call of Duty®: Modern Warfare® 3 (2011)
+    - Assassin’s Creed® Brotherhood
+  Тег 'Singleplayer':
+    - Call of Duty®: Modern Warfare® 3 (2011)
+    - Assassin’s Creed® Brotherhood
+  Тег 'FPS' (наименее популярный):
+    - Call of Duty®: Modern Warfare® 3 (2011)
+
+=== Год: 2012 ===
+Три самых популярных тега: Multiplayer, Action, Adventure
+Самый непопулярный тег: Team-Based
+
+Игры по тегам:
+  Тег 'Multiplayer':
+    - Counter-Strike 2
+    - LEGO® The Lord of the Rings™
+    - Max Payne 3
+    - Realm of the Mad God Exalt
+    - Need for Speed™ Most Wanted
+    ... и ещё 3 игр
+  Тег 'Action':
+    - Counter-Strike 2
+    - LEGO® The Lord of the Rings™
+    - Max Payne 3
+    - Realm of the Mad God Exalt
+    - Need for Speed™ Most Wanted
+    ... и ещё 2 игр
+  Тег 'Adventure':
+    - LEGO® The Lord of the Rings™
+    - Max Payne 3
+    - Realm of the Mad God Exalt
+    - Need for Speed™ Most Wanted
+    - Far Cry 3
+    ... и ещё 2 игр
+  Тег 'Team-Based' (наименее популярный):
+    - Counter-Strike 2
+
+=== Год: 2013 ===
+Три самых популярных тега: Multiplayer, Singleplayer, Action
+Самый непопулярный тег: Free to Play
+
+Игры по тегам:
+  Тег 'Multiplayer':
+    - Dota 2
+    - Scribblenauts Unlimited
+    - Total War: ROME II - Emperor Edition
+    - rFactor 2
+    - Battlefield 4™
+    ... и ещё 3 игр
+  Тег 'Singleplayer':
+    - Scribblenauts Unlimited
+    - Total War: ROME II - Emperor Edition
+    - rFactor 2
+    - Battlefield 4™
+    - Dead Space™ 3
+    ... и ещё 3 игр
+  Тег 'Action':
+    - Dota 2
+    - Scribblenauts Unlimited
+    - Total War: ROME II - Emperor Edition
+    - Battlefield 4™
+    - Dead Space™ 3
+    ... и ещё 2 игр
+  Тег 'Free to Play' (наименее популярный):
+    - Dota 2
+
+=== Год: 2014 ===
+Три самых популярных тега: Action, Singleplayer, Adventure
+Самый непопулярный тег: Turn-Based Strategy
+
+Игры по тегам:
+  Тег 'Action':
+    - Battle Nations
+    - Sniper Elite 3
+    - Borderlands: The Pre-Sequel
+    - The LEGO® Movie - Videogame
+    - Batman™: Arkham Origins Blackgate - Deluxe Edition
+    ... и ещё 12 игр
+  Тег 'Singleplayer':
+    - Battle Nations
+    - Sniper Elite 3
+    - Borderlands: The Pre-Sequel
+    - The LEGO® Movie - Videogame
+    - Batman™: Arkham Origins Blackgate - Deluxe Edition
+    ... и ещё 12 игр
+  Тег 'Adventure':
+    - Battle Nations
+    - Sniper Elite 3
+    - Borderlands: The Pre-Sequel
+    - The LEGO® Movie - Videogame
+    - Batman™: Arkham Origins Blackgate - Deluxe Edition
+    ... и ещё 12 игр
+  Тег 'Turn-Based Strategy' (наименее популярный):
+    - Battle Nations
+
+=== Год: 2015 ===
+Три самых популярных тега: Action, Singleplayer, Multiplayer
+Самый непопулярный тег: Early Access
+
+Игры по тегам:
+  Тег 'Action':
+    - Fallout 4
+    - iRacing
+    - Batman™: Arkham Knight
+    - Fallout 4
+    - iRacing
+    ... и ещё 17 игр
+  Тег 'Singleplayer':
+    - Fallout 4
+    - iRacing
+    - Batman™: Arkham Knight
+    - Fallout 4
+    - iRacing
+    ... и ещё 15 игр
+  Тег 'Multiplayer':
+    - iRacing
+    - iRacing
+    - BeamNG.drive
+    - Call of Duty®: Black Ops III
+    - Tabletop Simulator
+    ... и ещё 13 игр
+  Тег 'Early Access' (наименее популярный):
+    - BeamNG.drive
+
+=== Год: 2016 ===
+Три самых популярных тега: Singleplayer, Adventure, Action
+Самый непопулярный тег: Dragons
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - The Elder Scrolls V: Skyrim Special Edition
+    - No Man's Sky
+    - LEGO® STAR WARS™: The Force Awakens
+    - LEGO® MARVEL's Avengers
+    - N++ (NPLUSPLUS)
+    ... и ещё 29 игр
+  Тег 'Adventure':
+    - The Elder Scrolls V: Skyrim Special Edition
+    - No Man's Sky
+    - LEGO® STAR WARS™: The Force Awakens
+    - LEGO® MARVEL's Avengers
+    - Rec Room
+    ... и ещё 20 игр
+  Тег 'Action':
+    - The Elder Scrolls V: Skyrim Special Edition
+    - No Man's Sky
+    - LEGO® STAR WARS™: The Force Awakens
+    - LEGO® MARVEL's Avengers
+    - N++ (NPLUSPLUS)
+    ... и ещё 19 игр
+  Тег 'Dragons' (наименее популярный):
+    - The Elder Scrolls V: Skyrim Special Edition
+
+=== Год: 2017 ===
+Три самых популярных тега: Singleplayer, Action, Multiplayer
+Самый непопулярный тег: Battle Royale
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - ARK: Survival Evolved
+    - Cuphead
+    - Little Nightmares
+    - LEGO® City Undercover
+    - Tank Force: Online Shooter Game
+    ... и ещё 25 игр
+  Тег 'Action':
+    - PUBG: BATTLEGROUNDS
+    - ARK: Survival Evolved
+    - Cuphead
+    - Little Nightmares
+    - CarX Drift Racing Online
+    ... и ещё 23 игр
+  Тег 'Multiplayer':
+    - PUBG: BATTLEGROUNDS
+    - ARK: Survival Evolved
+    - Cuphead
+    - CarX Drift Racing Online
+    - Crossout
+    ... и ещё 20 игр
+  Тег 'Battle Royale' (наименее популярный):
+    - PUBG: BATTLEGROUNDS
+
+=== Год: 2018 ===
+Три самых популярных тега: Action, Adventure, Multiplayer
+Самый непопулярный тег: Post-apocalyptic
+
+Игры по тегам:
+  Тег 'Action':
+    - Rust
+    - Overcooked! 2
+    - The Crew™ 2
+    - LEGO® DC Super-Villains
+    - Monster Hunter: World
+    ... и ещё 25 игр
+  Тег 'Adventure':
+    - Rust
+    - The Crew™ 2
+    - Kingdom Two Crowns
+    - LEGO® DC Super-Villains
+    - Monster Hunter: World
+    ... и ещё 17 игр
+  Тег 'Multiplayer':
+    - Rust
+    - Overcooked! 2
+    - The Crew™ 2
+    - Kingdom Two Crowns
+    - LEGO® DC Super-Villains
+    ... и ещё 16 игр
+  Тег 'Post-apocalyptic' (наименее популярный):
+    - Rust
+
+=== Год: 2019 ===
+Три самых популярных тега: Singleplayer, Action, Multiplayer
+Самый непопулярный тег: Base Building
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Age of Empires II: Definitive Edition
+    - Planet Zoo
+    - Anno 1800
+    - Space Engineers
+    - Sekiro™: Shadows Die Twice - GOTY Edition
+    ... и ещё 21 игр
+  Тег 'Action':
+    - Age of Empires II: Definitive Edition
+    - Space Engineers
+    - Sekiro™: Shadows Die Twice - GOTY Edition
+    - ACE COMBAT™ 7: SKIES UNKNOWN
+    - DiRT Rally 2.0
+    ... и ещё 15 игр
+  Тег 'Multiplayer':
+    - Age of Empires II: Definitive Edition
+    - Planet Zoo
+    - Anno 1800
+    - Space Engineers
+    - ACE COMBAT™ 7: SKIES UNKNOWN
+    ... и ещё 13 игр
+  Тег 'Base Building' (наименее популярный):
+    - Age of Empires II: Definitive Edition
+
+=== Год: 2020 ===
+Три самых популярных тега: Singleplayer, Multiplayer, Action
+Самый непопулярный тег: Battle Royale
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Crusader Kings III
+    - Borderlands 3
+    - Superliminal
+    - Microsoft Flight Simulator (2020) 40th Anniversary Edition
+    - Hades
+    ... и ещё 30 игр
+  Тег 'Multiplayer':
+    - Apex Legends™
+    - Crusader Kings III
+    - Borderlands 3
+    - RuneScape ®
+    - Microsoft Flight Simulator (2020) 40th Anniversary Edition
+    ... и ещё 23 игр
+  Тег 'Action':
+    - Apex Legends™
+    - Borderlands 3
+    - RuneScape ®
+    - Hades
+    - ULTRAKILL
+    ... и ещё 23 игр
+  Тег 'Battle Royale' (наименее популярный):
+    - Apex Legends™
+
+=== Год: 2021 ===
+Три самых популярных тега: Singleplayer, Multiplayer, Action
+Самый непопулярный тег: LGBTQ+
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - New World: Aeternum
+    - New World: Aeternum
+    - Forza Horizon 5
+    - Hell Let Loose
+    - Russian Fishing 4
+    ... и ещё 39 игр
+  Тег 'Multiplayer':
+    - New World: Aeternum
+    - New World: Aeternum
+    - Forza Horizon 5
+    - GUILTY GEAR -STRIVE-
+    - Hell Let Loose
+    ... и ещё 33 игр
+  Тег 'Action':
+    - New World: Aeternum
+    - New World: Aeternum
+    - Forza Horizon 5
+    - GUILTY GEAR -STRIVE-
+    - Hell Let Loose
+    ... и ещё 31 игр
+  Тег 'LGBTQ+' (наименее популярный):
+    - GUILTY GEAR -STRIVE-
+
+=== Год: 2022 ===
+Три самых популярных тега: Singleplayer, Action, Adventure
+Самый непопулярный тег: Trading Card Game
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Yu-Gi-Oh! Master Duel
+    - Call of Duty®: Warzone™
+    - Raft
+    - Escape the Backrooms
+    - Stray
+    ... и ещё 40 игр
+  Тег 'Action':
+    - Lost Judgment
+    - Call of Duty®: Warzone™
+    - Warhammer 40,000: Darktide
+    - Raft
+    - Escape the Backrooms
+    ... и ещё 34 игр
+  Тег 'Adventure':
+    - Lost Judgment
+    - Call of Duty®: Warzone™
+    - Raft
+    - Escape the Backrooms
+    - Judgment
+    ... и ещё 32 игр
+  Тег 'Trading Card Game' (наименее популярный):
+    - Yu-Gi-Oh! Master Duel
+
+=== Год: 2023 ===
+Три самых популярных тега: Singleplayer, Action, Adventure
+Самый непопулярный тег: Dinosaurs
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Hogwarts Legacy
+    - Limbus Company
+    - Street Fighter™ 6
+    - Limbus Company
+    - Street Fighter™ 6
+    ... и ещё 66 игр
+  Тег 'Action':
+    - Hogwarts Legacy
+    - Limbus Company
+    - Street Fighter™ 6
+    - Eternal Return
+    - Limbus Company
+    ... и ещё 59 игр
+  Тег 'Adventure':
+    - Hogwarts Legacy
+    - Street Fighter™ 6
+    - Street Fighter™ 6
+    - ARK: Survival Ascended
+    - Like a Dragon: Ishin!
+    ... и ещё 58 игр
+  Тег 'Dinosaurs' (наименее популярный):
+    - ARK: Survival Ascended
+
+=== Год: 2024 ===
+Три самых популярных тега: Singleplayer, Multiplayer, Action
+Самый непопулярный тег: Hobby Sim
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Once Human
+    - Like a Dragon: Infinite Wealth
+    - Once Human
+    - Like a Dragon: Infinite Wealth
+    - Microsoft Flight Simulator 2024
+    ... и ещё 105 игр
+  Тег 'Multiplayer':
+    - Once Human
+    - Once Human
+    - Palworld
+    - Microsoft Flight Simulator 2024
+    - Harry Potter: Quidditch Champions
+    ... и ещё 69 игр
+  Тег 'Action':
+    - Like a Dragon: Infinite Wealth
+    - Like a Dragon: Infinite Wealth
+    - Palworld
+    - Harry Potter: Quidditch Champions
+    - LEGO® Harry Potter™ Collection
+    ... и ещё 69 игр
+  Тег 'Hobby Sim' (наименее популярный):
+    - Microsoft Flight Simulator 2024
+
+=== Год: 2025 ===
+Три самых популярных тега: Singleplayer, Action, Simulation
+Самый непопулярный тег: Shoot 'Em Up
+
+Игры по тегам:
+  Тег 'Singleplayer':
+    - Battlefield™ 6
+    - EA SPORTS FC™ 26
+    - BALL x PIT
+    - Digimon Story Time Stranger
+    - NBA 2K26
+    ... и ещё 165 игр
+  Тег 'Action':
+    - Battlefield™ 6
+    - ARC Raiders
+    - Escape From Duckov
+    - BALL x PIT
+    - Blue Protocol: Star Resonance
+    ... и ещё 118 игр
+  Тег 'Simulation':
+    - EA SPORTS FC™ 26
+    - NBA 2K26
+    - NBA 2K26 Hall of Fame Pass: Season 2
+    - Jurassic World Evolution 3
+    - NBA 2K26 Hall of Fame Pass: Season 2
+    ... и ещё 106 игр
+  Тег 'Shoot 'Em Up' (наименее популярный):
+    - BALL x PIT
+
+=== Год: 2026 ===
+Три самых популярных тега: Action, Adventure, Combat
+Самый непопулярный тег: Open World
+
+Игры по тегам:
+  Тег 'Action':
+    - Crimson Desert
+    - 007 First Light
+  Тег 'Adventure':
+    - Crimson Desert
+    - 007 First Light
+  Тег 'Combat':
+    - Crimson Desert
+    - 007 First Light
+  Тег 'Open World' (наименее популярный):
+    - Crimson Desert
